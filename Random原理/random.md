@@ -29,4 +29,4 @@ $$a_1=f(seed)，a_i = (a_{i-1} * A + C ) mod {M} $$
 
 ----
 #### 梅森旋转算法（Mersenne Twister）
-......
+**......**
